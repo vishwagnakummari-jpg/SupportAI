@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Module 3 – SupportAI
 
 A simple AI-powered customer support system built using FAQ search, LLM responses, TF-IDF matching, and conversational support.
@@ -87,5 +87,4 @@ python task3.py
 python task4.py
 ```
 =======
-# SupportAI
->>>>>>> c204b973257498d62011f5fae981a34ae00eae44
+
